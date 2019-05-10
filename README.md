@@ -10,15 +10,19 @@ This is currently only available on the[ Firefox Add-On Store](https://addons.mo
 ### Screenshots
 
 **Initial Popup**
+
 ![](https://addons.cdn.mozilla.net/user-media/previews/full/219/219079.png)
 
 **In Progress Report Generation**
+
 ![](https://addons.cdn.mozilla.net/user-media/previews/thumbs/219/219082.png)
 
 **Successful Report Creation**
+
 ![](https://addons.cdn.mozilla.net/user-media/previews/thumbs/219/219083.png)
 
 **Invalid URL Report Generation**
+
 ![](https://addons.cdn.mozilla.net/user-media/previews/thumbs/219/219081.png)
 
 ### Roadmap
