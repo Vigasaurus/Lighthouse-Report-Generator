@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+	"name": "Lighthouse Report Generator",
+	"version": "0.0.2",
+	"description": "Generates a Lighthouse Report and without needing to use Chrome",
+	"icons": {
+		"128": "images/logo.png"
+	},
+	"permissions": ["activeTab", "storage"],
+	"browser_action": {
+		"default_icon": {
+			"38": "images/logo.png"
+		},
+		"default_title": "Lighthouse",
+		"default_popup": "popup.html",
+		"browser_style": true
+	}
+}

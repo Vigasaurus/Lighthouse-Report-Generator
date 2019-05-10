@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Lighthouse Report Generator</title>
+		<link rel="stylesheet" href="styles/lighthouse.css" />
+	</head>
+	<body>
+		<header class="header">
+			<img
+				src="images/logo_header.png"
+				class="header__icon"
+				width="100"
+				height="100"
+				alt="Lighthouse Logo"
+			/>
+			<div class="header-title__container">
+				<h1 class="header-title__item">Lighthouse</h1>
+			</div>
+		</header>
+
+		<div class="feedback__container">
+			<span class="error" id="error_message" hidden></span>
+			<span class="success" id="success_message" hidden></span>
+		</div>
+
+		<div class="content">
+			<div class="content__button ld-ext-right" id="generate_report">
+				<span id="button_text">Generate Report</span>
+				<div class="ld ld-ring ld-spin"></div>
+			</div>
+		</div>
+		<script src="scripts/makeRequest.js"></script>
+	</body>
+</html>
