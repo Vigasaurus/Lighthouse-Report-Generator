@@ -8,28 +8,20 @@ This extension takes the current page you are viewing and passes it through Goog
 This is currently only available on the[ Firefox Add-On Store](https://addons.mozilla.org/en-US/firefox/addon/lighthouse-report-generator/), as it would be unnecessary on Chrome. 
 
 ### Screenshots
-<div style="display: flex">
-<div>
-####Initial Popup
-![](https://addons.cdn.mozilla.net/user-media/previews/full/219/219079.png)
-</div>
-<div>
 
-####In Progress Report Generation
+**Initial Popup**
+![](https://addons.cdn.mozilla.net/user-media/previews/full/219/219079.png)
+
+**In Progress Report Generation**
 ![](https://addons.cdn.mozilla.net/user-media/previews/thumbs/219/219082.png)
-</div>
-</div>
-<div style="display: flex">
-<div>
-####Successful Report Creation
+
+**Successful Report Creation**
 ![](https://addons.cdn.mozilla.net/user-media/previews/thumbs/219/219083.png)
-</div>
-<div>
-####Invalid URL Report Generation
+
+**Invalid URL Report Generation**
 ![](https://addons.cdn.mozilla.net/user-media/previews/thumbs/219/219081.png)
-</div>
-</div>
-###Roadmap
+
+### Roadmap
  - Ensure Viewer Opens in Dark Mode
  - Automatically Forward to User-Facing Report Viewer
  - Add Options to Automatically Grab Existing Reports
